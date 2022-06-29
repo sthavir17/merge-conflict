@@ -20,6 +20,7 @@ Initial Security()
 feature1()
 {
   //Sample Code for Feature 1
+    System.out.println("This is feature 1");
 
 }
 
