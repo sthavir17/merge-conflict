@@ -9,6 +9,7 @@ Initial Function()
 Initial Security()
 {
  //Sample Code
+    System.out.println("Security Patch Applied");
 
 feature1()
 {
