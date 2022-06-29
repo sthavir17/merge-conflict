@@ -8,6 +8,8 @@ Initial Function()
 feaature2()
 {
   //Sample Code for Feature 2
+    System.out.println("This is feature 2");
+
 }
 
 Initial Security()
